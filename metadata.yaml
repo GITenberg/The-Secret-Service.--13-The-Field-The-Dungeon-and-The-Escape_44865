@@ -1,0 +1,33 @@
+_repo: The-Secret-Service.--13-The-Field-The-Dungeon-and-The-Escape_44865
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44865-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Richardson, Albert D. (Albert Deane)
+    aliases:
+    - Richardson, A. D. (Albert Deane)
+    - Richardson, Albert Deane
+    birthdate: 1833
+    deathdate: 1869
+    gutenberg_agent_id: '42955'
+    url: http://www.gutenberg.org/2009/agents/42955
+    wikipedia: https://en.wikipedia.org/wiki/Albert_D._Richardson
+description: ''
+gutenberg_issued: '2014-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44865'
+  lccn: 02017943
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'Richardson, Albert D. (Albert Deane), 1833-1869'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Prisoners and prisons'
+- !lcc 'E456'
+title: The Secret Service, the Field, the Dungeon, and the Escape
+url: http://www.gutenberg.org/ebooks/44865
