@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42955
     wikipedia: https://en.wikipedia.org/wiki/Albert_D._Richardson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44865#The-Secret-Service.--13-The-Field-The-Dungeon-and-The-Escape
 gutenberg_issued: '2014-02-10'
 gutenberg_type: Text
 identifiers:
